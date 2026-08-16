@@ -52,8 +52,8 @@ const GENRES = [
     eyebrow: '58 for the last set',
     title: 'लोहा — Iron and Rhythm',
     hindi: 'एक और रेप, रुकना नहीं',
-    videoIds: [],
-    songTitles: [],
+    videoIds: ["9a4izd3Rvdw"],
+    songTitles: ["CHALLA-AR RAHMAN & GULZAR"],
     playlistId: 'PLPLACEHOLDER_GYM'
   },
   {
