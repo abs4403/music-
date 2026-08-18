@@ -26,11 +26,11 @@ const GENRES = [
     eyebrow: '2 on the highway',
     title: 'ट्रक वाला — Truck Wala',
     hindi: 'बुरी नज़र वाले तेरा मुँह काला',
-    videoIds: ['F8jufkW0SP8', 'gY_lYXY8P34'],
+    videoIds: ['F8jufkW0SP8', 'gY_lYXY8P34''5MIGQBpVeqs',],
     songTitles: [
       'Yeh Ladka Hai Deewana — Udit Narayan, Alka Yagnik',
       'Koi Mil Gaya — Udit Narayan, Alka Yagnik, Kavita Krishnamurthy'
-    ],
+    'Mujhse Mohabbat Ka'],
     hasHorn: true,
     hornLabel: '🔊 Press horn'
   },
